@@ -850,10 +850,10 @@ footer .copyright{
         padding: 0 80px;
         background-position: top 30% right 30%;
     }
-    #feature{
+    #features{
         justify-content: center;
     }
-    #feature .fe-box{
+    #features .fe-box{
         margin: 15px 15px;
     }
     #product1 .pro__container{
@@ -898,12 +898,12 @@ footer .copyright{
         padding: 0 20px;
         background-position: 55%;
     }
-    #feature{
-        justify-content: space-between;
+    #features{
+        justify-content: center;
     }
-    #feature .fe-box{
+    #features .fe-box{
         width: 155px;
-        margin: 0 0 15px 0;
+        margin: 0 0 15px 5px;
     }
     #product1 .pro{
         width: 100%;
